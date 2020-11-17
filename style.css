@@ -1,0 +1,10 @@
+body {
+    background-image: url("background.jpg");
+}
+.error {
+    background-color:pink;
+    color:red;
+}
+.container {
+    background-color:lightgray;
+}
